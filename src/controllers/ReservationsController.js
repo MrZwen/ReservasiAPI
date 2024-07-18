@@ -27,3 +27,14 @@ export const getReservationById = async (req, res) => {
         res.status(400).json("Error", error.message);
     }
 }
+
+export const createReservation = async (req, res) => {
+    try {
+        const reservation = await prisma.reservations.create({
+            data: req.body
+        });
+        res.status(200).json(reservation);
+    } catch (error) {
+        res.status(400).json("Error", error.message);
+    }
+}
