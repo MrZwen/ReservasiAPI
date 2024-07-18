@@ -1,0 +1,62 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model ReservationHistory {
+  id             Int      @id @default(autoincrement())
+  reservation_id Int?
+  STATUS         String?  @db.VarChar(20)
+  changed_at     DateTime @default(now()) @db.Timestamp(0)
+
+  @@index([reservation_id], map: "reservation_id")
+}
+
+model Reservations {
+  id             Int       @id @default(autoincrement())
+  user_id        Int?
+  room_id        Int?
+  check_in_date  DateTime? @db.Date
+  check_out_date DateTime? @db.Date
+  status         String?   @default("booked") @db.VarChar(20)
+  created_at     DateTime  @default(now()) @db.Timestamp(0)
+  updated_at     DateTime  @default(now()) @db.Timestamp(0)
+
+  @@index([room_id], map: "room_id")
+  @@index([user_id], map: "user_id")
+}
+
+model Roles {
+  id        Int     @id @default(autoincrement())
+  role_name String? @unique(map: "role_name") @db.VarChar(50)
+}
+
+model Rooms {
+  id          Int      @id @default(autoincrement())
+  room_number String?  @unique(map: "room_number") @db.VarChar(10)
+  room_type   String?  @db.VarChar(50)
+  price       Decimal? @db.Decimal(10, 2)
+  status      String?  @default("available") @db.VarChar(20)
+  description String?  @db.Text
+}
+
+model Users {
+  id            Int      @id @default(autoincrement())
+  username      String?  @unique(map: "username") @db.VarChar(50)
+  password      String?  @db.VarChar(255)
+  email         String?  @db.VarChar(100)
+  phone         String?  @db.VarChar(15)
+  role_id       Int?
+  first_name    String?  @db.VarChar(50)
+  last_name     String?  @db.VarChar(50)
+  address       String?  @db.Text
+  bio           String?  @db.Text
+  profile_photo String?  @db.VarChar(255)
+  created_at    DateTime @default(now()) @db.Timestamp(0)
+
+  @@index([role_id], map: "role_id")
+}
