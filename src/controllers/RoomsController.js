@@ -6,7 +6,7 @@ export const getAllRooms = async (req, res) => {
         const rooms = await prisma.rooms.findMany()
         res.status(200).json(rooms)
     } catch (error){
-        res.status(400).json("Error", error.message)
+        res.status(500).json({ msg: error.message })
     }
 }
 
@@ -24,7 +24,7 @@ export const getRoomsById = async (req, res) => {
             res.status(200).json(rooms)
         }
     } catch (error){
-        res.status(400).json("Error", error.message)
+        res.status(500).json({ msg: error.message })
     }
 }
 
@@ -59,7 +59,7 @@ export const createRooms = async (req, res) => {
 
         res.status(201).json(room);
     } catch (error) {
-        res.status(500).json({ message: "Terjadi kesalahan pada server", error: error.message });
+        res.status(500).json({ msg: error.message });
     }
 }
 
@@ -84,7 +84,7 @@ export const updateRooms = async (req, res) => {
         })
         res.status(201).json(room)
     } catch(error){
-        res.status(400).json({msg: error.message})
+        res.status(500).json({msg: error.message})
     }
 }
 
