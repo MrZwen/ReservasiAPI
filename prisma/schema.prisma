@@ -45,18 +45,22 @@ model Rooms {
 }
 
 model Users {
-  id            Int      @id @default(autoincrement())
-  username      String?  @unique(map: "username") @db.VarChar(50)
-  password      String?  @db.VarChar(255)
-  email         String?  @db.VarChar(100)
-  phone         String?  @db.VarChar(15)
-  role_id       Int?
-  first_name    String?  @db.VarChar(50)
-  last_name     String?  @db.VarChar(50)
-  address       String?  @db.Text
-  bio           String?  @db.Text
-  profile_photo String?  @db.VarChar(255)
-  created_at    DateTime @default(now()) @db.Timestamp(0)
+  id                     Int       @id @default(autoincrement())
+  username               String?   @unique(map: "username") @db.VarChar(50)
+  password               String?   @db.VarChar(255)
+  email                  String?   @db.VarChar(100)
+  phone                  String?   @db.VarChar(15)
+  role_id                Int?
+  first_name             String?   @db.VarChar(50)
+  last_name              String?   @db.VarChar(50)
+  address                String?   @db.Text
+  bio                    String?   @db.Text
+  profile_photo          String?   @db.VarChar(255)
+  created_at             DateTime  @default(now()) @db.Timestamp(0)
+  verification_token     String?   @db.VarChar(255)
+  is_verified            Boolean?  @default(false)
+  reset_password_token   String?   @db.VarChar(255)
+  reset_password_expires DateTime? @db.DateTime(0)
 
   @@index([role_id], map: "role_id")
 }
