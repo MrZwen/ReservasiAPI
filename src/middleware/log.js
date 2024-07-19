@@ -29,7 +29,7 @@ const backupLogFile = () => {
     const date = now.toISOString().split('T')[0];
     const logFilePath = getLogFilePath(date);
     const backupDir = path.join(__dirname, '../../logs/backup');
-    const backupFilePath = path.join(backupDir, `logs-${date}.txt`);
+    const backupFilePath = path.join(backupDir, `logs-${date}-backup.txt`);
 
     if (!fs.existsSync(backupDir)) {
         fs.mkdirSync(backupDir, { recursive: true });
