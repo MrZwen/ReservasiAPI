@@ -16,10 +16,5 @@
         "src": "/(.*)",
         "dest": "src/index.js"
       }
-    ],
-    "build": {
-      "env": {
-        "PRISMA_CLIENT_GENERATE": "true"
-      }
-    }
+    ]
   }
