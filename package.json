@@ -6,9 +6,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "prisma generate && vercel build",
+    "build": "node src/index.js",
     "generate": "prisma generate",
-    "start": "nodemon src/index.js"
+    "start": "nodemon src/index.js",
+    "postinstall": "prisma generate"
   },
   "author": "Aditya Dharma",
   "license": "ISC",
