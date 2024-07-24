@@ -1,0 +1,486 @@
+[7/20/2024, 12:03:24 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:03:24 AM] Request ke Path: /login
+[7/20/2024, 12:03:24 AM] Request type: POST
+[7/20/2024, 12:03:24 AM] Response Time: 1359ms
+[7/20/2024, 12:03:31 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:03:31 AM] Request ke Path: /login
+[7/20/2024, 12:03:31 AM] Request type: POST
+[7/20/2024, 12:03:31 AM] Response Time: 115ms
+[7/20/2024, 12:04:55 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:04:55 AM] Request ke Path: /users/4
+[7/20/2024, 12:04:55 AM] Request type: GET
+[7/20/2024, 12:04:55 AM] Response Time: 138ms
+[7/20/2024, 12:05:01 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:05:01 AM] Request ke Path: /users/7
+[7/20/2024, 12:05:01 AM] Request type: GET
+[7/20/2024, 12:05:01 AM] Response Time: 46ms
+[7/20/2024, 12:05:04 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:05:04 AM] Request ke Path: /users/6
+[7/20/2024, 12:05:04 AM] Request type: GET
+[7/20/2024, 12:05:04 AM] Response Time: 46ms
+[7/20/2024, 12:05:08 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:05:08 AM] Request ke Path: /users/8
+[7/20/2024, 12:05:08 AM] Request type: GET
+[7/20/2024, 12:05:08 AM] Response Time: 48ms
+[7/20/2024, 12:05:11 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:05:11 AM] Request ke Path: /users/9
+[7/20/2024, 12:05:11 AM] Request type: GET
+[7/20/2024, 12:05:11 AM] Response Time: 108ms
+[7/20/2024, 12:05:16 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:05:16 AM] Request ke Path: /users
+[7/20/2024, 12:05:16 AM] Request type: GET
+[7/20/2024, 12:05:16 AM] Response Time: 105ms
+[7/20/2024, 12:05:47 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:05:47 AM] Request ke Path: /users
+[7/20/2024, 12:05:47 AM] Request type: GET
+[7/20/2024, 12:05:47 AM] Response Time: 89ms
+[7/20/2024, 12:05:54 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:05:54 AM] Request ke Path: /users/12
+[7/20/2024, 12:05:54 AM] Request type: GET
+[7/20/2024, 12:05:54 AM] Response Time: 49ms
+[7/20/2024, 12:06:19 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:06:19 AM] Request ke Path: /login
+[7/20/2024, 12:06:19 AM] Request type: POST
+[7/20/2024, 12:06:19 AM] Response Time: 150ms
+[7/20/2024, 12:06:26 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:06:26 AM] Request ke Path: /login
+[7/20/2024, 12:06:26 AM] Request type: POST
+[7/20/2024, 12:06:26 AM] Response Time: 113ms
+[7/20/2024, 12:06:28 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:06:28 AM] Request ke Path: /login
+[7/20/2024, 12:06:28 AM] Request type: POST
+[7/20/2024, 12:06:28 AM] Response Time: 107ms
+[7/20/2024, 12:06:29 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:06:29 AM] Request ke Path: /login
+[7/20/2024, 12:06:29 AM] Request type: POST
+[7/20/2024, 12:06:29 AM] Response Time: 111ms
+[7/20/2024, 12:10:53 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:10:53 AM] Request ke Path: /login
+[7/20/2024, 12:10:53 AM] Request type: POST
+[7/20/2024, 12:10:53 AM] Response Time: 1453ms
+[7/20/2024, 12:13:07 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:13:07 AM] Request ke Path: /users/4
+[7/20/2024, 12:13:07 AM] Request type: GET
+[7/20/2024, 12:13:07 AM] Response Time: 225ms
+[7/20/2024, 12:13:09 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:13:09 AM] Request ke Path: /users/1
+[7/20/2024, 12:13:09 AM] Request type: GET
+[7/20/2024, 12:13:09 AM] Response Time: 57ms
+[7/20/2024, 12:13:10 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:13:10 AM] Request ke Path: /users/12
+[7/20/2024, 12:13:10 AM] Request type: GET
+[7/20/2024, 12:13:10 AM] Response Time: 62ms
+[7/20/2024, 12:13:38 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:13:38 AM] Request ke Path: /login
+[7/20/2024, 12:13:38 AM] Request type: POST
+[7/20/2024, 12:13:38 AM] Response Time: 225ms
+[7/20/2024, 12:14:52 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:14:52 AM] Request ke Path: /login
+[7/20/2024, 12:14:52 AM] Request type: POST
+[7/20/2024, 12:14:52 AM] Response Time: 398ms
+[7/20/2024, 12:15:52 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:15:52 AM] Request ke Path: /login
+[7/20/2024, 12:15:52 AM] Request type: POST
+[7/20/2024, 12:15:52 AM] Response Time: 199ms
+[7/20/2024, 12:15:58 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:15:58 AM] Request ke Path: /login
+[7/20/2024, 12:15:58 AM] Request type: POST
+[7/20/2024, 12:15:58 AM] Response Time: 132ms
+[7/20/2024, 12:16:16 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:16:16 AM] Request ke Path: /login
+[7/20/2024, 12:16:16 AM] Request type: POST
+[7/20/2024, 12:16:16 AM] Response Time: 480ms
+[7/20/2024, 12:16:21 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:16:21 AM] Request ke Path: /login
+[7/20/2024, 12:16:21 AM] Request type: POST
+[7/20/2024, 12:16:21 AM] Response Time: 154ms
+[7/20/2024, 12:18:25 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:18:25 AM] Request ke Path: /login
+[7/20/2024, 12:18:25 AM] Request type: POST
+[7/20/2024, 12:18:25 AM] Response Time: 615ms
+[7/20/2024, 12:19:01 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:19:01 AM] Request ke Path: /login
+[7/20/2024, 12:19:01 AM] Request type: POST
+[7/20/2024, 12:19:01 AM] Response Time: 200ms
+[7/20/2024, 12:19:21 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:19:21 AM] Request ke Path: /users/12
+[7/20/2024, 12:19:21 AM] Request type: GET
+[7/20/2024, 12:19:21 AM] Response Time: 208ms
+[7/20/2024, 12:19:24 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:19:24 AM] Request ke Path: /users
+[7/20/2024, 12:19:24 AM] Request type: GET
+[7/20/2024, 12:19:24 AM] Response Time: 128ms
+[7/20/2024, 12:23:21 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:23:21 AM] Request ke Path: /login
+[7/20/2024, 12:23:21 AM] Request type: POST
+[7/20/2024, 12:23:21 AM] Response Time: 544ms
+[7/20/2024, 12:24:49 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:24:49 AM] Request ke Path: /logout
+[7/20/2024, 12:24:49 AM] Request type: GET
+[7/20/2024, 12:24:49 AM] Response Time: 27ms
+[7/20/2024, 12:25:10 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:25:10 AM] Request ke Path: /login
+[7/20/2024, 12:25:10 AM] Request type: POST
+[7/20/2024, 12:25:10 AM] Response Time: 431ms
+[7/20/2024, 12:25:15 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:25:15 AM] Request ke Path: /login
+[7/20/2024, 12:25:15 AM] Request type: POST
+[7/20/2024, 12:25:15 AM] Response Time: 284ms
+[7/20/2024, 12:27:10 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:27:10 AM] Request ke Path: /logout
+[7/20/2024, 12:27:10 AM] Request type: GET
+[7/20/2024, 12:27:10 AM] Response Time: 24ms
+[7/20/2024, 12:27:19 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:27:19 AM] Request ke Path: /login
+[7/20/2024, 12:27:19 AM] Request type: POST
+[7/20/2024, 12:27:19 AM] Response Time: 410ms
+[7/20/2024, 12:30:53 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:30:53 AM] Request ke Path: /login
+[7/20/2024, 12:30:53 AM] Request type: POST
+[7/20/2024, 12:30:53 AM] Response Time: 443ms
+[7/20/2024, 12:31:47 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:31:47 AM] Request ke Path: /login
+[7/20/2024, 12:31:47 AM] Request type: POST
+[7/20/2024, 12:31:47 AM] Response Time: 181ms
+[7/20/2024, 12:43:27 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:43:27 AM] Request ke Path: /request-password-reset
+[7/20/2024, 12:43:27 AM] Request type: POST
+[7/20/2024, 12:43:27 AM] Response Time: 81ms
+[7/20/2024, 12:43:45 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:43:45 AM] Request ke Path: /request-password-reset
+[7/20/2024, 12:43:45 AM] Request type: POST
+[7/20/2024, 12:43:45 AM] Response Time: 4646ms
+[7/20/2024, 12:44:56 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:44:56 AM] Request ke Path: /reset-password
+[7/20/2024, 12:44:56 AM] Request type: GET
+[7/20/2024, 12:44:56 AM] Response Time: 19ms
+[7/20/2024, 12:45:57 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:45:57 AM] Request ke Path: /reset-password
+[7/20/2024, 12:45:57 AM] Request type: GET
+[7/20/2024, 12:45:57 AM] Response Time: 2ms
+[7/20/2024, 12:46:14 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:46:14 AM] Request ke Path: /reset-password
+[7/20/2024, 12:46:14 AM] Request type: GET
+[7/20/2024, 12:46:14 AM] Response Time: 2ms
+[7/20/2024, 12:54:33 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:54:33 AM] Request ke Path: /users
+[7/20/2024, 12:54:33 AM] Request type: POST
+[7/20/2024, 12:54:33 AM] Response Time: 4122ms
+[7/20/2024, 12:56:33 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:56:33 AM] Request ke Path: /users
+[7/20/2024, 12:56:33 AM] Request type: POST
+[7/20/2024, 12:56:33 AM] Response Time: 4286ms
+[7/20/2024, 12:58:41 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:58:41 AM] Request ke Path: /users
+[7/20/2024, 12:58:41 AM] Request type: POST
+[7/20/2024, 12:58:41 AM] Response Time: 4087ms
+[7/20/2024, 12:59:02 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:59:02 AM] Request ke Path: /verify-email
+[7/20/2024, 12:59:02 AM] Request type: GET
+[7/20/2024, 12:59:02 AM] Response Time: 681ms
+[7/20/2024, 12:59:57 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 12:59:57 AM] Request ke Path: /users
+[7/20/2024, 12:59:57 AM] Request type: POST
+[7/20/2024, 12:59:57 AM] Response Time: 3524ms
+[7/20/2024, 1:00:15 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:00:15 AM] Request ke Path: /login
+[7/20/2024, 1:00:15 AM] Request type: POST
+[7/20/2024, 1:00:15 AM] Response Time: 128ms
+[7/20/2024, 1:00:26 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:00:26 AM] Request ke Path: /login
+[7/20/2024, 1:00:26 AM] Request type: POST
+[7/20/2024, 1:00:26 AM] Response Time: 136ms
+[7/20/2024, 1:00:52 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:00:52 AM] Request ke Path: /verify-email
+[7/20/2024, 1:00:52 AM] Request type: GET
+[7/20/2024, 1:00:52 AM] Response Time: 690ms
+[7/20/2024, 1:00:55 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:00:55 AM] Request ke Path: /login
+[7/20/2024, 1:00:55 AM] Request type: POST
+[7/20/2024, 1:00:55 AM] Response Time: 159ms
+[7/20/2024, 1:04:00 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:04:00 AM] Request ke Path: /users
+[7/20/2024, 1:04:00 AM] Request type: GET
+[7/20/2024, 1:04:00 AM] Response Time: 389ms
+[7/20/2024, 1:19:22 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:19:22 AM] Request ke Path: /update-profile/6
+[7/20/2024, 1:19:22 AM] Request type: PUT
+[7/20/2024, 1:19:22 AM] Response Time: 85ms
+[7/20/2024, 1:19:35 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:19:35 AM] Request ke Path: /login
+[7/20/2024, 1:19:35 AM] Request type: POST
+[7/20/2024, 1:19:35 AM] Response Time: 1503ms
+[7/20/2024, 1:19:48 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:19:48 AM] Request ke Path: /users
+[7/20/2024, 1:19:48 AM] Request type: GET
+[7/20/2024, 1:19:48 AM] Response Time: 138ms
+[7/20/2024, 1:20:12 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:20:12 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:20:12 AM] Request type: PUT
+[7/20/2024, 1:20:12 AM] Response Time: 2ms
+[7/20/2024, 1:20:32 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:20:32 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:20:32 AM] Request type: PUT
+[7/20/2024, 1:20:32 AM] Response Time: 2ms
+[7/20/2024, 1:21:28 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:21:28 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:21:28 AM] Request type: PUT
+[7/20/2024, 1:21:28 AM] Response Time: 2ms
+[7/20/2024, 1:23:14 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:23:14 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:23:14 AM] Request type: PUT
+[7/20/2024, 1:23:14 AM] Response Time: 3ms
+[7/20/2024, 1:24:01 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:24:01 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:24:01 AM] Request type: PUT
+[7/20/2024, 1:24:01 AM] Response Time: 1ms
+[7/20/2024, 1:26:25 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:26:25 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:26:25 AM] Request type: PUT
+[7/20/2024, 1:26:25 AM] Response Time: 2ms
+[7/20/2024, 1:26:28 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:26:28 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:26:28 AM] Request type: PUT
+[7/20/2024, 1:26:28 AM] Response Time: 5ms
+[7/20/2024, 1:29:57 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:29:57 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:29:57 AM] Request type: PUT
+[7/20/2024, 1:29:57 AM] Response Time: 369ms
+[7/20/2024, 1:30:14 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:30:14 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:30:14 AM] Request type: PUT
+[7/20/2024, 1:30:14 AM] Response Time: 137ms
+[7/20/2024, 1:30:30 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:30:30 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:30:30 AM] Request type: PUT
+[7/20/2024, 1:30:30 AM] Response Time: 371ms
+[7/20/2024, 1:30:42 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:30:42 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:30:42 AM] Request type: PUT
+[7/20/2024, 1:30:42 AM] Response Time: 72ms
+[7/20/2024, 1:30:45 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:30:45 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:30:45 AM] Request type: PUT
+[7/20/2024, 1:30:45 AM] Response Time: 134ms
+[7/20/2024, 1:30:56 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:30:56 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:30:56 AM] Request type: PUT
+[7/20/2024, 1:30:56 AM] Response Time: 363ms
+[7/20/2024, 1:31:06 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:31:06 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:31:06 AM] Request type: PUT
+[7/20/2024, 1:31:06 AM] Response Time: 71ms
+[7/20/2024, 1:32:09 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:32:09 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:32:09 AM] Request type: POST
+[7/20/2024, 1:32:09 AM] Response Time: 384ms
+[7/20/2024, 1:33:15 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:33:15 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:33:15 AM] Request type: POST
+[7/20/2024, 1:33:15 AM] Response Time: 487ms
+[7/20/2024, 1:34:47 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:34:47 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:34:47 AM] Request type: POST
+[7/20/2024, 1:34:47 AM] Response Time: 1439ms
+[7/20/2024, 1:35:08 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:35:08 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:35:08 AM] Request type: POST
+[7/20/2024, 1:35:08 AM] Response Time: 414ms
+[7/20/2024, 1:36:05 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:36:05 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:36:05 AM] Request type: POST
+[7/20/2024, 1:36:05 AM] Response Time: 376ms
+[7/20/2024, 1:37:39 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:37:39 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:37:39 AM] Request type: POST
+[7/20/2024, 1:37:39 AM] Response Time: 410ms
+[7/20/2024, 1:41:32 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:41:32 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:41:32 AM] Request type: POST
+[7/20/2024, 1:41:32 AM] Response Time: 387ms
+[7/20/2024, 1:41:50 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:41:50 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:41:50 AM] Request type: POST
+[7/20/2024, 1:41:50 AM] Response Time: 907ms
+[7/20/2024, 1:42:46 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:42:46 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:42:46 AM] Request type: POST
+[7/20/2024, 1:42:46 AM] Response Time: 939ms
+[7/20/2024, 1:44:06 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:44:06 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:44:06 AM] Request type: POST
+[7/20/2024, 1:44:06 AM] Response Time: 436ms
+[7/20/2024, 1:44:28 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:44:28 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:44:28 AM] Request type: POST
+[7/20/2024, 1:44:28 AM] Response Time: 486ms
+[7/20/2024, 1:46:58 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:46:58 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:46:58 AM] Request type: POST
+[7/20/2024, 1:47:32 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:47:32 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:47:32 AM] Request type: POST
+[7/20/2024, 1:47:32 AM] Response Time: 909ms
+[7/20/2024, 1:49:05 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:49:05 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:49:05 AM] Request type: POST
+[7/20/2024, 1:49:05 AM] Response Time: 782ms
+[7/20/2024, 1:50:57 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:50:57 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:50:57 AM] Request type: POST
+[7/20/2024, 1:50:57 AM] Response Time: 952ms
+[7/20/2024, 1:52:38 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:52:38 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:52:38 AM] Request type: POST
+[7/20/2024, 1:55:58 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 1:55:58 AM] Request ke Path: /update-profile/16
+[7/20/2024, 1:55:58 AM] Request type: POST
+[7/20/2024, 1:55:58 AM] Response Time: 376ms
+[7/20/2024, 2:01:56 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:01:56 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:01:56 AM] Request type: POST
+[7/20/2024, 2:01:56 AM] Response Time: 1067ms
+[7/20/2024, 2:02:53 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:02:53 AM] Request ke Path: /users
+[7/20/2024, 2:02:53 AM] Request type: GET
+[7/20/2024, 2:02:53 AM] Response Time: 181ms
+[7/20/2024, 2:03:22 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:03:22 AM] Request ke Path: /update-profile/10
+[7/20/2024, 2:03:22 AM] Request type: POST
+[7/20/2024, 2:03:22 AM] Response Time: 455ms
+[7/20/2024, 2:03:46 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:03:46 AM] Request ke Path: /update-profile/10
+[7/20/2024, 2:03:46 AM] Request type: POST
+[7/20/2024, 2:03:46 AM] Response Time: 472ms
+[7/20/2024, 2:04:48 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:04:48 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:04:48 AM] Request type: POST
+[7/20/2024, 2:04:48 AM] Response Time: 456ms
+[7/20/2024, 2:05:05 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:05:05 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:05:05 AM] Request type: POST
+[7/20/2024, 2:05:05 AM] Response Time: 433ms
+[7/20/2024, 2:07:52 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:07:52 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:07:52 AM] Request type: POST
+[7/20/2024, 2:07:52 AM] Response Time: 933ms
+[7/20/2024, 2:08:10 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:08:10 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:08:10 AM] Request type: POST
+[7/20/2024, 2:08:10 AM] Response Time: 466ms
+[7/20/2024, 2:14:02 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:14:02 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:14:02 AM] Request type: POST
+[7/20/2024, 2:14:02 AM] Response Time: 29ms
+[7/20/2024, 2:17:56 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:17:56 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:17:56 AM] Request type: POST
+[7/20/2024, 2:17:56 AM] Response Time: 857ms
+[7/20/2024, 2:19:54 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:19:54 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:19:54 AM] Request type: POST
+[7/20/2024, 2:19:54 AM] Response Time: 28ms
+[7/20/2024, 2:20:02 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:20:02 AM] Request ke Path: /login
+[7/20/2024, 2:20:02 AM] Request type: POST
+[7/20/2024, 2:20:02 AM] Response Time: 426ms
+[7/20/2024, 2:20:08 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:20:08 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:20:08 AM] Request type: POST
+[7/20/2024, 2:20:08 AM] Response Time: 3ms
+[7/20/2024, 2:20:33 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:20:33 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:20:33 AM] Request type: POST
+[7/20/2024, 2:20:33 AM] Response Time: 813ms
+[7/20/2024, 2:20:39 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:20:39 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:20:39 AM] Request type: GET
+[7/20/2024, 2:20:39 AM] Response Time: 7ms
+[7/20/2024, 2:24:05 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:24:05 AM] Request ke Path: /users
+[7/20/2024, 2:24:05 AM] Request type: GET
+[7/20/2024, 2:24:05 AM] Response Time: 370ms
+[7/20/2024, 2:24:18 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:24:18 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:24:18 AM] Request type: GET
+[7/20/2024, 2:24:18 AM] Response Time: 4ms
+[7/20/2024, 2:24:19 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:24:19 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:24:19 AM] Request type: GET
+[7/20/2024, 2:24:19 AM] Response Time: 2ms
+[7/20/2024, 2:24:20 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:24:20 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:24:20 AM] Request type: GET
+[7/20/2024, 2:24:20 AM] Response Time: 2ms
+[7/20/2024, 2:24:20 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:24:20 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:24:20 AM] Request type: GET
+[7/20/2024, 2:24:20 AM] Response Time: 1ms
+[7/20/2024, 2:27:22 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:27:22 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:27:22 AM] Request type: GET
+[7/20/2024, 2:27:22 AM] Response Time: 26ms
+[7/20/2024, 2:28:37 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:28:37 AM] Request ke Path: /profile-pics/1721413234186.gif
+[7/20/2024, 2:28:37 AM] Request type: GET
+[7/20/2024, 2:28:37 AM] Response Time: 25ms
+[7/20/2024, 2:36:20 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:36:20 AM] Request ke Path: /profile-pics/1721413234186.gif
+[7/20/2024, 2:36:20 AM] Request type: GET
+[7/20/2024, 2:36:20 AM] Response Time: 91ms
+[7/20/2024, 2:36:25 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:36:25 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:36:25 AM] Request type: GET
+[7/20/2024, 2:36:25 AM] Response Time: 3ms
+[7/20/2024, 2:36:45 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:36:45 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:36:45 AM] Request type: GET
+[7/20/2024, 2:36:45 AM] Response Time: 24ms
+[7/20/2024, 2:38:21 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:38:21 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:38:21 AM] Request type: GET
+[7/20/2024, 2:38:21 AM] Response Time: 24ms
+[7/20/2024, 2:40:03 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:40:03 AM] Request ke Path: //debug/files
+[7/20/2024, 2:40:03 AM] Request type: GET
+[7/20/2024, 2:40:03 AM] Response Time: 31ms
+[7/20/2024, 2:43:39 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:43:39 AM] Request ke Path: /uploads/profile-pics/
+[7/20/2024, 2:43:39 AM] Request type: GET
+[7/20/2024, 2:43:39 AM] Response Time: 82ms
+[7/20/2024, 2:43:44 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:43:44 AM] Request ke Path: /uploads/
+[7/20/2024, 2:43:44 AM] Request type: GET
+[7/20/2024, 2:43:44 AM] Response Time: 3ms
+[7/20/2024, 2:43:58 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:43:58 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:43:58 AM] Request type: GET
+[7/20/2024, 2:43:58 AM] Response Time: 26ms
+[7/20/2024, 2:44:17 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:44:17 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:44:17 AM] Request type: GET
+[7/20/2024, 2:44:17 AM] Response Time: 24ms
+[7/20/2024, 2:44:21 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:44:21 AM] Request ke Path: /uploads/profile-pics/
+[7/20/2024, 2:44:21 AM] Request type: GET
+[7/20/2024, 2:44:21 AM] Response Time: 2ms
+[7/20/2024, 2:44:29 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:44:29 AM] Request ke Path: /uploads/profile-pics/
+[7/20/2024, 2:44:29 AM] Request type: GET
+[7/20/2024, 2:44:29 AM] Response Time: 25ms
+[7/20/2024, 2:44:31 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:44:31 AM] Request ke Path: /uploads/profile-pics/
+[7/20/2024, 2:44:31 AM] Request type: GET
+[7/20/2024, 2:44:31 AM] Response Time: 2ms
+[7/20/2024, 2:45:21 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:45:21 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:45:21 AM] Request type: POST
+[7/20/2024, 2:45:21 AM] Response Time: 2029ms
+[7/20/2024, 2:45:32 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:45:32 AM] Request ke Path: /uploads/profile-pics/1721413234186.gif
+[7/20/2024, 2:45:32 AM] Request type: GET
+[7/20/2024, 2:45:32 AM] Response Time: 2ms
+[7/20/2024, 2:46:07 AM] User dengan IP: ::1 melakukan request
+[7/20/2024, 2:46:07 AM] Request ke Path: /update-profile/16
+[7/20/2024, 2:46:07 AM] Request type: POST
+[7/20/2024, 2:46:07 AM] Response Time: 475ms

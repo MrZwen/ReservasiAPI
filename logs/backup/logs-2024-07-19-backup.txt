@@ -1,0 +1,655 @@
+[7/19/2024, 12:58:35 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 12:58:35 PM] Request ke Path: /rooms
+[7/19/2024, 12:58:35 PM] Request type: GET
+[7/19/2024, 12:58:35 PM] Response Time: 365ms
+[7/19/2024, 12:58:35 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 12:58:35 PM] Request ke Path: /favicon.ico
+[7/19/2024, 12:58:35 PM] Request type: GET
+[7/19/2024, 12:58:35 PM] Response Time: 5ms
+[7/19/2024, 12:58:38 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 12:58:38 PM] Request ke Path: /rooms/1
+[7/19/2024, 12:58:38 PM] Request type: GET
+[7/19/2024, 12:58:38 PM] Response Time: 2ms
+[7/19/2024, 1:03:33 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:03:33 PM] Request ke Path: /rooms/1
+[7/19/2024, 1:03:33 PM] Request type: GET
+[7/19/2024, 1:03:33 PM] Response Time: 23ms
+[7/19/2024, 1:07:50 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:07:50 PM] Request ke Path: /rooms
+[7/19/2024, 1:07:50 PM] Request type: GET
+[7/19/2024, 1:07:50 PM] Response Time: 382ms
+[7/19/2024, 1:08:03 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:08:03 PM] Request ke Path: /rooms
+[7/19/2024, 1:08:03 PM] Request type: POST
+[7/19/2024, 1:08:03 PM] Response Time: 270ms
+[7/19/2024, 1:08:30 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:08:30 PM] Request ke Path: /rooms
+[7/19/2024, 1:08:30 PM] Request type: POST
+[7/19/2024, 1:08:30 PM] Response Time: 206ms
+[7/19/2024, 1:09:28 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:09:28 PM] Request ke Path: /rooms
+[7/19/2024, 1:09:28 PM] Request type: GET
+[7/19/2024, 1:09:28 PM] Response Time: 81ms
+[7/19/2024, 1:11:38 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:11:38 PM] Request ke Path: /rooms
+[7/19/2024, 1:11:38 PM] Request type: GET
+[7/19/2024, 1:11:38 PM] Response Time: 281ms
+[7/19/2024, 1:11:43 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:11:43 PM] Request ke Path: /rooms
+[7/19/2024, 1:11:43 PM] Request type: GET
+[7/19/2024, 1:11:43 PM] Response Time: 43ms
+[7/19/2024, 1:12:06 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:12:06 PM] Request ke Path: /rooms
+[7/19/2024, 1:12:06 PM] Request type: GET
+[7/19/2024, 1:12:06 PM] Response Time: 294ms
+[7/19/2024, 1:12:10 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:12:10 PM] Request ke Path: /rooms
+[7/19/2024, 1:12:10 PM] Request type: GET
+[7/19/2024, 1:12:10 PM] Response Time: 44ms
+[7/19/2024, 1:12:47 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:12:47 PM] Request ke Path: /rooms
+[7/19/2024, 1:12:47 PM] Request type: POST
+[7/19/2024, 1:12:47 PM] Response Time: 431ms
+[7/19/2024, 1:12:53 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:12:53 PM] Request ke Path: /rooms
+[7/19/2024, 1:12:53 PM] Request type: GET
+[7/19/2024, 1:12:53 PM] Response Time: 89ms
+[7/19/2024, 1:13:57 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:13:57 PM] Request ke Path: /rooms
+[7/19/2024, 1:13:57 PM] Request type: GET
+[7/19/2024, 1:13:57 PM] Response Time: 299ms
+[7/19/2024, 1:14:33 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:14:33 PM] Request ke Path: /rooms
+[7/19/2024, 1:14:33 PM] Request type: GET
+[7/19/2024, 1:14:33 PM] Response Time: 82ms
+[7/19/2024, 1:14:42 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:14:42 PM] Request ke Path: /rooms
+[7/19/2024, 1:14:42 PM] Request type: POST
+[7/19/2024, 1:14:42 PM] Response Time: 3ms
+[7/19/2024, 1:17:36 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:17:36 PM] Request ke Path: /rooms
+[7/19/2024, 1:17:36 PM] Request type: POST
+[7/19/2024, 1:17:36 PM] Response Time: 26ms
+[7/19/2024, 1:18:51 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:18:51 PM] Request ke Path: /rooms
+[7/19/2024, 1:18:51 PM] Request type: POST
+[7/19/2024, 1:18:51 PM] Response Time: 421ms
+[7/19/2024, 1:19:22 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:19:22 PM] Request ke Path: /rooms/1
+[7/19/2024, 1:19:22 PM] Request type: GET
+[7/19/2024, 1:19:22 PM] Response Time: 5ms
+[7/19/2024, 1:19:37 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:19:37 PM] Request ke Path: /rooms
+[7/19/2024, 1:19:37 PM] Request type: GET
+[7/19/2024, 1:19:37 PM] Response Time: 148ms
+[7/19/2024, 1:19:59 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:19:59 PM] Request ke Path: /rooms/1
+[7/19/2024, 1:19:59 PM] Request type: GET
+[7/19/2024, 1:19:59 PM] Response Time: 23ms
+[7/19/2024, 1:20:09 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:20:09 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:20:09 PM] Request type: GET
+[7/19/2024, 1:20:09 PM] Response Time: 3ms
+[7/19/2024, 1:20:15 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:20:15 PM] Request ke Path: /rooms/1
+[7/19/2024, 1:20:15 PM] Request type: GET
+[7/19/2024, 1:20:15 PM] Response Time: 2ms
+[7/19/2024, 1:20:27 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:20:27 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:20:27 PM] Request type: GET
+[7/19/2024, 1:20:27 PM] Response Time: 266ms
+[7/19/2024, 1:21:33 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:21:33 PM] Request ke Path: /rooms
+[7/19/2024, 1:21:33 PM] Request type: POST
+[7/19/2024, 1:21:33 PM] Response Time: 3ms
+[7/19/2024, 1:21:53 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:21:53 PM] Request ke Path: /rooms
+[7/19/2024, 1:21:53 PM] Request type: GET
+[7/19/2024, 1:21:53 PM] Response Time: 125ms
+[7/19/2024, 1:23:09 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:23:09 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:23:09 PM] Request type: PUT
+[7/19/2024, 1:23:09 PM] Response Time: 22ms
+[7/19/2024, 1:23:34 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:23:34 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:23:34 PM] Request type: PUT
+[7/19/2024, 1:23:34 PM] Response Time: 601ms
+[7/19/2024, 1:23:46 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:23:46 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:23:46 PM] Request type: GET
+[7/19/2024, 1:23:46 PM] Response Time: 96ms
+[7/19/2024, 1:23:52 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:23:52 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:23:52 PM] Request type: PUT
+[7/19/2024, 1:23:52 PM] Response Time: 248ms
+[7/19/2024, 1:24:03 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:24:03 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:24:03 PM] Request type: PUT
+[7/19/2024, 1:24:03 PM] Response Time: 519ms
+[7/19/2024, 1:25:57 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:25:57 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:25:57 PM] Request type: DELETE
+[7/19/2024, 1:26:30 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:26:30 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:26:30 PM] Request type: DELETE
+[7/19/2024, 1:26:51 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:26:51 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:26:51 PM] Request type: DELETE
+[7/19/2024, 1:27:17 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:27:17 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:27:17 PM] Request type: DELETE
+[7/19/2024, 1:33:46 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:33:46 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:33:46 PM] Request type: DELETE
+[7/19/2024, 1:35:14 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:35:14 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:35:14 PM] Request type: DELETE
+[7/19/2024, 1:35:27 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:35:27 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:35:27 PM] Request type: DELETE
+[7/19/2024, 1:35:27 PM] Response Time: 370ms
+[7/19/2024, 1:36:54 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:36:54 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:36:54 PM] Request type: DELETE
+[7/19/2024, 1:36:54 PM] Response Time: 353ms
+[7/19/2024, 1:36:57 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:36:57 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:36:57 PM] Request type: DELETE
+[7/19/2024, 1:36:57 PM] Response Time: 123ms
+[7/19/2024, 1:37:21 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:37:21 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:37:21 PM] Request type: DELETE
+[7/19/2024, 1:37:21 PM] Response Time: 162ms
+[7/19/2024, 1:39:48 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:39:48 PM] Request ke Path: /rooms/1
+[7/19/2024, 1:39:48 PM] Request type: GET
+[7/19/2024, 1:39:48 PM] Response Time: 289ms
+[7/19/2024, 1:39:52 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:39:52 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:39:52 PM] Request type: GET
+[7/19/2024, 1:39:52 PM] Response Time: 45ms
+[7/19/2024, 1:39:56 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:39:56 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:39:56 PM] Request type: GET
+[7/19/2024, 1:39:56 PM] Response Time: 45ms
+[7/19/2024, 1:39:59 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:39:59 PM] Request ke Path: /rooms
+[7/19/2024, 1:39:59 PM] Request type: GET
+[7/19/2024, 1:39:59 PM] Response Time: 82ms
+[7/19/2024, 1:41:29 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:41:29 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:41:29 PM] Request type: DELETE
+[7/19/2024, 1:42:55 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:42:55 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:42:55 PM] Request type: DELETE
+[7/19/2024, 1:42:55 PM] Response Time: 358ms
+[7/19/2024, 1:43:25 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:43:25 PM] Request ke Path: /rooms
+[7/19/2024, 1:43:25 PM] Request type: DELETE
+[7/19/2024, 1:43:25 PM] Response Time: 2ms
+[7/19/2024, 1:43:34 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:43:34 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:43:34 PM] Request type: DELETE
+[7/19/2024, 1:43:34 PM] Response Time: 252ms
+[7/19/2024, 1:43:38 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:43:38 PM] Request ke Path: /rooms
+[7/19/2024, 1:43:38 PM] Request type: GET
+[7/19/2024, 1:43:38 PM] Response Time: 84ms
+[7/19/2024, 1:44:14 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:44:14 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:44:14 PM] Request type: DELETE
+[7/19/2024, 1:44:14 PM] Response Time: 359ms
+[7/19/2024, 1:45:20 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:45:20 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:45:20 PM] Request type: DELETE
+[7/19/2024, 1:45:20 PM] Response Time: 162ms
+[7/19/2024, 1:45:35 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:45:35 PM] Request ke Path: /rooms/5
+[7/19/2024, 1:45:35 PM] Request type: DELETE
+[7/19/2024, 1:45:35 PM] Response Time: 267ms
+[7/19/2024, 1:45:41 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:45:41 PM] Request ke Path: /rooms/1
+[7/19/2024, 1:45:41 PM] Request type: DELETE
+[7/19/2024, 1:45:41 PM] Response Time: 257ms
+[7/19/2024, 1:45:47 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:45:47 PM] Request ke Path: /rooms
+[7/19/2024, 1:45:47 PM] Request type: GET
+[7/19/2024, 1:45:47 PM] Response Time: 87ms
+[7/19/2024, 1:45:53 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:45:53 PM] Request ke Path: /rooms
+[7/19/2024, 1:45:53 PM] Request type: POST
+[7/19/2024, 1:45:53 PM] Response Time: 2ms
+[7/19/2024, 1:46:01 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:46:01 PM] Request ke Path: /rooms
+[7/19/2024, 1:46:01 PM] Request type: POST
+[7/19/2024, 1:46:01 PM] Response Time: 291ms
+[7/19/2024, 1:46:07 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:46:07 PM] Request ke Path: /rooms
+[7/19/2024, 1:46:07 PM] Request type: GET
+[7/19/2024, 1:46:07 PM] Response Time: 52ms
+[7/19/2024, 1:46:27 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:46:27 PM] Request ke Path: /rooms
+[7/19/2024, 1:46:27 PM] Request type: POST
+[7/19/2024, 1:46:27 PM] Response Time: 210ms
+[7/19/2024, 1:46:30 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:46:30 PM] Request ke Path: /rooms
+[7/19/2024, 1:46:30 PM] Request type: GET
+[7/19/2024, 1:46:30 PM] Response Time: 43ms
+[7/19/2024, 1:47:45 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:47:45 PM] Request ke Path: /rooms/1
+[7/19/2024, 1:47:45 PM] Request type: DELETE
+[7/19/2024, 1:47:45 PM] Response Time: 269ms
+[7/19/2024, 1:47:50 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:47:50 PM] Request ke Path: /rooms
+[7/19/2024, 1:47:50 PM] Request type: DELETE
+[7/19/2024, 1:47:50 PM] Response Time: 4ms
+[7/19/2024, 1:47:55 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:47:55 PM] Request ke Path: /rooms/
+[7/19/2024, 1:47:55 PM] Request type: DELETE
+[7/19/2024, 1:47:55 PM] Response Time: 3ms
+[7/19/2024, 1:47:58 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:47:58 PM] Request ke Path: /rooms/12
+[7/19/2024, 1:47:58 PM] Request type: DELETE
+[7/19/2024, 1:47:58 PM] Response Time: 41ms
+[7/19/2024, 1:48:06 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:48:06 PM] Request ke Path: /rooms/a
+[7/19/2024, 1:48:06 PM] Request type: DELETE
+[7/19/2024, 1:48:06 PM] Response Time: 49ms
+[7/19/2024, 1:48:10 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:48:10 PM] Request ke Path: /rooms/a
+[7/19/2024, 1:48:10 PM] Request type: DELETE
+[7/19/2024, 1:48:10 PM] Response Time: 23ms
+[7/19/2024, 1:48:17 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:48:17 PM] Request ke Path: /rooms/1
+[7/19/2024, 1:48:17 PM] Request type: DELETE
+[7/19/2024, 1:48:17 PM] Response Time: 262ms
+[7/19/2024, 1:50:09 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:50:09 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:50:09 PM] Request type: PATCH
+[7/19/2024, 1:50:09 PM] Response Time: 23ms
+[7/19/2024, 1:50:21 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:50:21 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:50:21 PM] Request type: PATCH
+[7/19/2024, 1:50:21 PM] Response Time: 2096ms
+[7/19/2024, 1:50:28 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:50:28 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:50:28 PM] Request type: PATCH
+[7/19/2024, 1:50:28 PM] Response Time: 202ms
+[7/19/2024, 1:50:42 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:50:42 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:50:42 PM] Request type: GET
+[7/19/2024, 1:50:42 PM] Response Time: 139ms
+[7/19/2024, 1:50:50 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:50:50 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:50:50 PM] Request type: PATCH
+[7/19/2024, 1:50:50 PM] Response Time: 219ms
+[7/19/2024, 1:50:57 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:50:57 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:50:57 PM] Request type: GET
+[7/19/2024, 1:50:57 PM] Response Time: 42ms
+[7/19/2024, 1:51:15 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:51:15 PM] Request ke Path: /rooms
+[7/19/2024, 1:51:15 PM] Request type: GET
+[7/19/2024, 1:51:15 PM] Response Time: 119ms
+[7/19/2024, 1:51:19 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:51:19 PM] Request ke Path: /rooms/6
+[7/19/2024, 1:51:19 PM] Request type: GET
+[7/19/2024, 1:51:19 PM] Response Time: 42ms
+[7/19/2024, 1:52:09 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:52:09 PM] Request ke Path: /rooms
+[7/19/2024, 1:52:09 PM] Request type: POST
+[7/19/2024, 1:52:09 PM] Response Time: 247ms
+[7/19/2024, 1:52:15 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:52:15 PM] Request ke Path: /rooms/8
+[7/19/2024, 1:52:15 PM] Request type: GET
+[7/19/2024, 1:52:15 PM] Response Time: 43ms
+[7/19/2024, 1:52:36 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:52:36 PM] Request ke Path: /rooms/8
+[7/19/2024, 1:52:36 PM] Request type: PATCH
+[7/19/2024, 1:54:59 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:54:59 PM] Request ke Path: /rooms/8
+[7/19/2024, 1:54:59 PM] Request type: PATCH
+[7/19/2024, 1:54:59 PM] Response Time: 540ms
+[7/19/2024, 1:55:14 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:55:14 PM] Request ke Path: /rooms/8
+[7/19/2024, 1:55:14 PM] Request type: GET
+[7/19/2024, 1:55:14 PM] Response Time: 85ms
+[7/19/2024, 1:55:37 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:55:37 PM] Request ke Path: /rooms/8
+[7/19/2024, 1:55:37 PM] Request type: PATCH
+[7/19/2024, 1:55:37 PM] Response Time: 1ms
+[7/19/2024, 1:55:51 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:55:51 PM] Request ke Path: /rooms/8
+[7/19/2024, 1:55:51 PM] Request type: GET
+[7/19/2024, 1:55:51 PM] Response Time: 89ms
+[7/19/2024, 1:55:54 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:55:54 PM] Request ke Path: /rooms/8
+[7/19/2024, 1:55:54 PM] Request type: PATCH
+[7/19/2024, 1:55:54 PM] Response Time: 203ms
+[7/19/2024, 1:56:01 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:56:01 PM] Request ke Path: /rooms/8
+[7/19/2024, 1:56:01 PM] Request type: GET
+[7/19/2024, 1:56:01 PM] Response Time: 45ms
+[7/19/2024, 1:56:14 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:56:14 PM] Request ke Path: /rooms
+[7/19/2024, 1:56:14 PM] Request type: GET
+[7/19/2024, 1:56:14 PM] Response Time: 120ms
+[7/19/2024, 1:57:19 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:57:19 PM] Request ke Path: /rooms/8
+[7/19/2024, 1:57:19 PM] Request type: GET
+[7/19/2024, 1:57:19 PM] Response Time: 82ms
+[7/19/2024, 1:57:30 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:57:30 PM] Request ke Path: /rooms/8
+[7/19/2024, 1:57:30 PM] Request type: GET
+[7/19/2024, 1:57:30 PM] Response Time: 45ms
+[7/19/2024, 1:57:36 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:57:36 PM] Request ke Path: /rooms
+[7/19/2024, 1:57:36 PM] Request type: POST
+[7/19/2024, 1:58:02 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 1:58:02 PM] Request ke Path: /rooms
+[7/19/2024, 1:58:02 PM] Request type: GET
+[7/19/2024, 1:58:02 PM] Response Time: 287ms
+[7/19/2024, 2:00:10 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 2:00:10 PM] Request ke Path: /rooms
+[7/19/2024, 2:00:10 PM] Request type: POST
+[7/19/2024, 2:00:10 PM] Response Time: 266ms
+[7/19/2024, 2:22:25 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 2:22:25 PM] Request ke Path: /reservations
+[7/19/2024, 2:22:25 PM] Request type: GET
+[7/19/2024, 2:22:25 PM] Response Time: 257ms
+[7/19/2024, 2:22:56 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 2:22:56 PM] Request ke Path: /rooms
+[7/19/2024, 2:22:56 PM] Request type: GET
+[7/19/2024, 2:22:56 PM] Response Time: 251ms
+[7/19/2024, 2:23:16 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 2:23:16 PM] Request ke Path: /rooms
+[7/19/2024, 2:23:16 PM] Request type: GET
+[7/19/2024, 2:23:16 PM] Response Time: 91ms
+[7/19/2024, 2:54:45 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 2:54:45 PM] Request ke Path: /reservations
+[7/19/2024, 2:54:45 PM] Request type: GET
+[7/19/2024, 2:54:45 PM] Response Time: 1387ms
+[7/19/2024, 2:55:47 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 2:55:47 PM] Request ke Path: /reservations/1
+[7/19/2024, 2:55:47 PM] Request type: GET
+[7/19/2024, 2:55:47 PM] Response Time: 135ms
+[7/19/2024, 2:55:51 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 2:55:51 PM] Request ke Path: /reservations/2
+[7/19/2024, 2:55:51 PM] Request type: GET
+[7/19/2024, 2:55:51 PM] Response Time: 44ms
+[7/19/2024, 2:56:15 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 2:56:15 PM] Request ke Path: /reservations
+[7/19/2024, 2:56:15 PM] Request type: POST
+[7/19/2024, 2:56:15 PM] Response Time: 4ms
+[7/19/2024, 2:58:32 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 2:58:32 PM] Request ke Path: /reservations
+[7/19/2024, 2:58:32 PM] Request type: POST
+[7/19/2024, 2:58:32 PM] Response Time: 448ms
+[7/19/2024, 2:58:42 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 2:58:42 PM] Request ke Path: /rooms/9
+[7/19/2024, 2:58:42 PM] Request type: GET
+[7/19/2024, 2:58:42 PM] Response Time: 245ms
+[7/19/2024, 2:59:48 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 2:59:48 PM] Request ke Path: /reservations
+[7/19/2024, 2:59:48 PM] Request type: PATCH
+[7/19/2024, 2:59:48 PM] Response Time: 3ms
+[7/19/2024, 3:00:06 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:00:06 PM] Request ke Path: /reservations/3
+[7/19/2024, 3:00:06 PM] Request type: PATCH
+[7/19/2024, 3:00:06 PM] Response Time: 532ms
+[7/19/2024, 3:00:33 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:00:33 PM] Request ke Path: /reservations/3
+[7/19/2024, 3:00:33 PM] Request type: PATCH
+[7/19/2024, 3:00:33 PM] Response Time: 257ms
+[7/19/2024, 3:00:56 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:00:56 PM] Request ke Path: /reservations/3
+[7/19/2024, 3:00:56 PM] Request type: PATCH
+[7/19/2024, 3:00:56 PM] Response Time: 245ms
+[7/19/2024, 3:06:16 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:06:16 PM] Request ke Path: /reservations/3
+[7/19/2024, 3:06:16 PM] Request type: PATCH
+[7/19/2024, 3:06:16 PM] Response Time: 602ms
+[7/19/2024, 3:07:02 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:07:02 PM] Request ke Path: /reservations/3
+[7/19/2024, 3:07:02 PM] Request type: DELETE
+[7/19/2024, 3:07:02 PM] Response Time: 471ms
+[7/19/2024, 3:08:09 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:08:09 PM] Request ke Path: /reservations/3
+[7/19/2024, 3:08:09 PM] Request type: GET
+[7/19/2024, 3:08:09 PM] Response Time: 267ms
+[7/19/2024, 3:08:30 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:08:30 PM] Request ke Path: /reservations
+[7/19/2024, 3:08:30 PM] Request type: POST
+[7/19/2024, 3:08:30 PM] Response Time: 306ms
+[7/19/2024, 3:09:02 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:09:02 PM] Request ke Path: /reservations/4
+[7/19/2024, 3:09:02 PM] Request type: PATCH
+[7/19/2024, 3:09:02 PM] Response Time: 319ms
+[7/19/2024, 3:09:23 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:09:23 PM] Request ke Path: /reservations/4
+[7/19/2024, 3:09:23 PM] Request type: PATCH
+[7/19/2024, 3:09:23 PM] Response Time: 452ms
+[7/19/2024, 3:10:52 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:10:52 PM] Request ke Path: /reservations/3
+[7/19/2024, 3:10:52 PM] Request type: DELETE
+[7/19/2024, 3:10:52 PM] Response Time: 83ms
+[7/19/2024, 3:13:03 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:13:03 PM] Request ke Path: /reservations
+[7/19/2024, 3:13:03 PM] Request type: POST
+[7/19/2024, 3:13:03 PM] Response Time: 514ms
+[7/19/2024, 3:13:11 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:13:11 PM] Request ke Path: /reservations
+[7/19/2024, 3:13:11 PM] Request type: POST
+[7/19/2024, 3:13:11 PM] Response Time: 44ms
+[7/19/2024, 3:13:47 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:13:47 PM] Request ke Path: /reservations
+[7/19/2024, 3:13:47 PM] Request type: POST
+[7/19/2024, 3:13:47 PM] Response Time: 81ms
+[7/19/2024, 3:13:53 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:13:53 PM] Request ke Path: /reservations
+[7/19/2024, 3:13:53 PM] Request type: POST
+[7/19/2024, 3:13:53 PM] Response Time: 223ms
+[7/19/2024, 3:15:40 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:15:40 PM] Request ke Path: /users
+[7/19/2024, 3:15:40 PM] Request type: GET
+[7/19/2024, 3:15:40 PM] Response Time: 276ms
+[7/19/2024, 3:15:58 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:15:58 PM] Request ke Path: /users/1
+[7/19/2024, 3:15:58 PM] Request type: GET
+[7/19/2024, 3:15:58 PM] Response Time: 136ms
+[7/19/2024, 3:16:02 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:16:02 PM] Request ke Path: /users/2
+[7/19/2024, 3:16:02 PM] Request type: GET
+[7/19/2024, 3:16:02 PM] Response Time: 46ms
+[7/19/2024, 3:16:33 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:16:33 PM] Request ke Path: /users
+[7/19/2024, 3:16:33 PM] Request type: POST
+[7/19/2024, 3:16:33 PM] Response Time: 4ms
+[7/19/2024, 3:16:52 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:16:52 PM] Request ke Path: /users/2
+[7/19/2024, 3:16:52 PM] Request type: PATCH
+[7/19/2024, 3:16:52 PM] Response Time: 2ms
+[7/19/2024, 3:18:24 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:18:24 PM] Request ke Path: /roles
+[7/19/2024, 3:18:24 PM] Request type: GET
+[7/19/2024, 3:18:24 PM] Response Time: 254ms
+[7/19/2024, 3:18:43 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:18:43 PM] Request ke Path: /roles/1
+[7/19/2024, 3:18:43 PM] Request type: GET
+[7/19/2024, 3:18:43 PM] Response Time: 135ms
+[7/19/2024, 3:19:17 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:19:17 PM] Request ke Path: /roles/1
+[7/19/2024, 3:19:17 PM] Request type: PATCH
+[7/19/2024, 3:19:17 PM] Response Time: 1ms
+[7/19/2024, 3:20:38 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:20:38 PM] Request ke Path: /history
+[7/19/2024, 3:20:38 PM] Request type: GET
+[7/19/2024, 3:20:38 PM] Response Time: 236ms
+[7/19/2024, 3:20:55 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:20:55 PM] Request ke Path: /history/1
+[7/19/2024, 3:20:55 PM] Request type: GET
+[7/19/2024, 3:20:55 PM] Response Time: 120ms
+[7/19/2024, 3:40:31 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:40:31 PM] Request ke Path: /users
+[7/19/2024, 3:40:31 PM] Request type: POST
+[7/19/2024, 3:40:31 PM] Response Time: 382ms
+[7/19/2024, 3:44:01 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 3:44:01 PM] Request ke Path: /users
+[7/19/2024, 3:44:01 PM] Request type: POST
+[7/19/2024, 3:44:01 PM] Response Time: 1670ms
+[7/19/2024, 4:10:07 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 4:10:07 PM] Request ke Path: /users
+[7/19/2024, 4:10:07 PM] Request type: POST
+[7/19/2024, 4:10:07 PM] Response Time: 1296ms
+[7/19/2024, 4:10:14 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 4:10:14 PM] Request ke Path: /users
+[7/19/2024, 4:10:14 PM] Request type: GET
+[7/19/2024, 4:10:14 PM] Response Time: 88ms
+[7/19/2024, 6:55:52 PM] Response Time: 79ms
+[7/19/2024, 6:55:52 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 6:55:52 PM] Request ke Path: /users/2
+[7/19/2024, 6:55:52 PM] Request type: GET
+[7/19/2024, 7:00:20 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 7:00:20 PM] Request ke Path: /users/2
+[7/19/2024, 7:00:20 PM] Request type: GET
+[7/19/2024, 7:00:20 PM] Response Time: 3ms
+[7/19/2024, 8:21:05 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:21:05 PM] Request ke Path: /users/2
+[7/19/2024, 8:21:05 PM] Request type: GET
+[7/19/2024, 8:21:05 PM] Response Time: 360ms
+[7/19/2024, 8:21:12 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:21:12 PM] Request ke Path: /users/4
+[7/19/2024, 8:21:12 PM] Request type: GET
+[7/19/2024, 8:21:12 PM] Response Time: 44ms
+[7/19/2024, 8:21:37 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:21:37 PM] Request ke Path: /users/2
+[7/19/2024, 8:21:37 PM] Request type: PATCH
+[7/19/2024, 8:21:37 PM] Response Time: 4ms
+[7/19/2024, 8:21:46 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:21:46 PM] Request ke Path: /users
+[7/19/2024, 8:21:46 PM] Request type: POST
+[7/19/2024, 8:21:46 PM] Response Time: 2ms
+[7/19/2024, 8:22:04 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:22:04 PM] Request ke Path: /users
+[7/19/2024, 8:22:04 PM] Request type: POST
+[7/19/2024, 8:22:04 PM] Response Time: 129ms
+[7/19/2024, 8:40:29 PM] User dengan IP: 127.0.0.1 melakukan request
+[7/19/2024, 8:40:29 PM] Request ke Path: /reservations
+[7/19/2024, 8:40:29 PM] Request type: GET
+[7/19/2024, 8:40:29 PM] Response Time: 501ms
+[7/19/2024, 8:40:39 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:40:39 PM] Request ke Path: /users/13
+[7/19/2024, 8:40:39 PM] Request type: GET
+[7/19/2024, 8:40:39 PM] Response Time: 369ms
+[7/19/2024, 8:40:42 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:40:42 PM] Request ke Path: /users/1
+[7/19/2024, 8:40:42 PM] Request type: GET
+[7/19/2024, 8:40:42 PM] Response Time: 60ms
+[7/19/2024, 8:40:50 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:40:50 PM] Request ke Path: /users/4
+[7/19/2024, 8:40:50 PM] Request type: GET
+[7/19/2024, 8:40:50 PM] Response Time: 70ms
+[7/19/2024, 8:52:08 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:52:08 PM] Request ke Path: /users
+[7/19/2024, 8:52:08 PM] Request type: POST
+[7/19/2024, 8:52:08 PM] Response Time: 580ms
+[7/19/2024, 8:52:21 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:52:21 PM] Request ke Path: /users
+[7/19/2024, 8:52:21 PM] Request type: POST
+[7/19/2024, 8:52:21 PM] Response Time: 2585ms
+[7/19/2024, 8:56:06 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:56:06 PM] Request ke Path: /users
+[7/19/2024, 8:56:06 PM] Request type: POST
+[7/19/2024, 8:56:06 PM] Response Time: 621ms
+[7/19/2024, 8:56:17 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 8:56:17 PM] Request ke Path: /users
+[7/19/2024, 8:56:17 PM] Request type: POST
+[7/19/2024, 8:56:17 PM] Response Time: 1796ms
+[7/19/2024, 9:26:00 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 9:26:00 PM] Request ke Path: /users
+[7/19/2024, 9:26:00 PM] Request type: POST
+[7/19/2024, 9:26:00 PM] Response Time: 1299ms
+[7/19/2024, 9:32:49 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 9:32:49 PM] Request ke Path: /users
+[7/19/2024, 9:32:49 PM] Request type: POST
+[7/19/2024, 9:32:49 PM] Response Time: 1371ms
+[7/19/2024, 9:34:13 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 9:34:13 PM] Request ke Path: /users
+[7/19/2024, 9:34:13 PM] Request type: POST
+[7/19/2024, 9:34:13 PM] Response Time: 4391ms
+[7/19/2024, 9:35:07 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 9:35:07 PM] Request ke Path: /verify-email
+[7/19/2024, 9:35:07 PM] Request type: GET
+[7/19/2024, 9:35:07 PM] Response Time: 4ms
+[7/19/2024, 9:35:52 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 9:35:52 PM] Request ke Path: /verify-email
+[7/19/2024, 9:35:52 PM] Request type: GET
+[7/19/2024, 9:35:52 PM] Response Time: 30ms
+[7/19/2024, 9:39:01 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 9:39:01 PM] Request ke Path: /verify-email
+[7/19/2024, 9:39:01 PM] Request type: GET
+[7/19/2024, 9:39:01 PM] Response Time: 1088ms
+[7/19/2024, 9:43:30 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 9:43:30 PM] Request ke Path: /login
+[7/19/2024, 9:43:30 PM] Request type: POST
+[7/19/2024, 9:43:30 PM] Response Time: 493ms
+[7/19/2024, 9:44:22 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 9:44:22 PM] Request ke Path: /login
+[7/19/2024, 9:44:22 PM] Request type: POST
+[7/19/2024, 9:44:22 PM] Response Time: 147ms
+[7/19/2024, 9:45:43 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 9:45:43 PM] Request ke Path: /login
+[7/19/2024, 9:45:43 PM] Request type: POST
+[7/19/2024, 9:45:43 PM] Response Time: 387ms
+[7/19/2024, 9:46:06 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 9:46:06 PM] Request ke Path: /login
+[7/19/2024, 9:46:06 PM] Request type: POST
+[7/19/2024, 9:46:06 PM] Response Time: 123ms
+[7/19/2024, 10:06:07 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:06:07 PM] Request ke Path: /login
+[7/19/2024, 10:06:07 PM] Request type: POST
+[7/19/2024, 10:06:07 PM] Response Time: 1393ms
+[7/19/2024, 10:33:08 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:33:08 PM] Request ke Path: /login
+[7/19/2024, 10:33:08 PM] Request type: POST
+[7/19/2024, 10:33:08 PM] Response Time: 1278ms
+[7/19/2024, 10:35:57 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:35:57 PM] Request ke Path: /login
+[7/19/2024, 10:35:57 PM] Request type: POST
+[7/19/2024, 10:35:57 PM] Response Time: 292ms
+[7/19/2024, 10:36:17 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:36:17 PM] Request ke Path: /users
+[7/19/2024, 10:36:17 PM] Request type: POST
+[7/19/2024, 10:36:17 PM] Response Time: 3607ms
+[7/19/2024, 10:36:44 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:36:44 PM] Request ke Path: /verify-email
+[7/19/2024, 10:36:44 PM] Request type: GET
+[7/19/2024, 10:36:44 PM] Response Time: 455ms
+[7/19/2024, 10:36:53 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:36:53 PM] Request ke Path: /login
+[7/19/2024, 10:36:53 PM] Request type: POST
+[7/19/2024, 10:36:53 PM] Response Time: 112ms
+[7/19/2024, 10:39:12 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:39:12 PM] Request ke Path: /login
+[7/19/2024, 10:39:12 PM] Request type: POST
+[7/19/2024, 10:39:12 PM] Response Time: 170ms
+[7/19/2024, 10:41:21 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:41:21 PM] Request ke Path: /users
+[7/19/2024, 10:41:21 PM] Request type: POST
+[7/19/2024, 10:41:21 PM] Response Time: 3668ms
+[7/19/2024, 10:41:55 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:41:55 PM] Request ke Path: /verify-email
+[7/19/2024, 10:41:55 PM] Request type: GET
+[7/19/2024, 10:41:55 PM] Response Time: 452ms
+[7/19/2024, 10:42:42 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:42:42 PM] Request ke Path: /users
+[7/19/2024, 10:42:42 PM] Request type: POST
+[7/19/2024, 10:42:42 PM] Response Time: 2594ms
+[7/19/2024, 10:43:39 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:43:39 PM] Request ke Path: /verify-email
+[7/19/2024, 10:43:39 PM] Request type: GET
+[7/19/2024, 10:43:39 PM] Response Time: 313ms
+[7/19/2024, 10:44:44 PM] User dengan IP: ::1 melakukan request
+[7/19/2024, 10:44:44 PM] Request ke Path: /reservations/5
+[7/19/2024, 10:44:44 PM] Request type: PATCH
+[7/19/2024, 10:44:44 PM] Response Time: 524ms
