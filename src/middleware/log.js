@@ -18,7 +18,7 @@ const logRequest = (req, res, next) => {
         ip = ip.split(':').pop();
     }
 
-    const logMessage = `[${timeStamp}] User dengan IP: ${ip} melakukan request\r\n` +
+    const logMessage = `[${timeStamp}] User dengan IP: ${ip} melakukan request\n` +
                        `[${timeStamp}] Request ke Path: ${req.path}\n` +
                        `[${timeStamp}] Request type: ${req.method}`;
 
